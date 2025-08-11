@@ -18,12 +18,15 @@ The goal is to reach the **META** field in as few rolls as possible.
 
 ### Steps
 1. Clone the repository:
-   ```bash
+   ```terminal
    git clone https://github.com/Kura676/verySimpleConsoleBoardGame.git
    cd verySimpleConsoleBoardGame
-   
+   cd src
 2.Compile the code
+   ```terminal
   javac App.java Result.java
-  
+  ```
 3.Run the game!
+```terminal
   java App
+```
